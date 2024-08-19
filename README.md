@@ -37,5 +37,7 @@ Adjust the PHONE constant to your desired recipient phone number for SMS alerts.
 Modify initialLatitude, initialLongitude, and Diametre variables to set your geofence center and diameter.
 
 Resources
+
 TinyGPS++ Library
+
 Arduino SoftwareSerial Library
